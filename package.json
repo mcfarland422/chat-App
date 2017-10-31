@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/mcfarland422/chat-App/issues"
   },
-  "homepage": "https://github.com/mcfarland422/chat-App#readme"
+  "homepage": "https://github.com/mcfarland422/chat-App#readme",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
 }
