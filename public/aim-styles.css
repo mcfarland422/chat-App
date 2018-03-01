@@ -1,0 +1,70 @@
+body{
+
+}
+
+.container{
+  background-color: #E9E6D1;
+  max-width: 600px;
+  border: 3px solid #0051EB;
+  border-radius: 5px;
+  margin-top: 8%;
+  position: relative;
+}
+
+.aim-header{
+  height: 25px;
+  background-color: #0051EB;
+}
+
+.little-guy{
+  padding-left: 5px;
+  float: left;
+}
+
+.top-head-im{
+  color: white;
+  font-weight: bold;
+  padding-left: 5px;
+}
+
+.right-buttons{
+  float: right;
+  top: 0px;
+}
+
+.file-top{
+  border-bottom: solid 1px grey;
+}
+
+.message-area{
+  background: white;
+  min-height: 160px;
+  border: solid 1px grey;
+  margin-top: 6px;
+}
+
+.txt-bar-bar{
+  width: 100%;
+}
+
+.text-input-input{
+  width: 100%;
+  min-height: 100px;
+  border-bottom: solid 1px grey;
+}
+
+.txt-input-css{
+  padding: 5px 0px 5px 0px;
+}
+
+.btn-primary{
+  float: right;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.left-buttons{
+  float: left;
+  position: absolute;
+  bottom: 0px;
+}
